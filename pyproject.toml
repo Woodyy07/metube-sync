@@ -1,0 +1,7 @@
+[project]
+name = "metube-sync"
+version = "0.1.0"
+description = "Tracks new YouTube Music releases from followed artists and queues them in MeTube"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
