@@ -1,6 +1,4 @@
-def main():
-    print("Hello from music-sync!")
-
+from src.cli import app
 
 if __name__ == "__main__":
-    main()
+    app()
