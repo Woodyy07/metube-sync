@@ -49,3 +49,7 @@ data/
 ```
 
 Delete `data/archive.json` to reset everything.
+
+## Credits
+
+Built on top of [ytmusicapi](https://github.com/sigma67/ytmusicapi) by sigma67 and [MeTube](https://github.com/alexta69/metube) by alexta69.
